@@ -1,5 +1,12 @@
 # Header Sorting Tools
 
+### Installation:
+- `npm install line-by-line colors readline`
+
+### Usage:
+- `node .` or `node index.js`
+- Follow along the questions.
+
 Raw Headers Example
 ```
 :authority: github.com
