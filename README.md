@@ -4,10 +4,10 @@
 - `npm install line-by-line colors readline`
 
 ### Usage:
-- `node .` or `node index.js`
-- Follow along the questions.
+- Put your headers in `headers.txt`
+- `node index.js`
 
-Raw Headers Example
+### Raw Headers Example
 ```
 :authority: github.com
 :method: GET
